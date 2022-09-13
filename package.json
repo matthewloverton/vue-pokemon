@@ -11,7 +11,9 @@
   "dependencies": {
     "pinia": "^2.0.21",
     "vue": "^3.2.38",
-    "vue-router": "^4.1.5"
+    "vue-router": "^4.1.5",
+    "vue-virtual-scroller": "^2.0.0-alpha.1",
+    "vue3-lazyload": "^0.3.6"
   },
   "devDependencies": {
     "@rushstack/eslint-patch": "^1.1.4",
